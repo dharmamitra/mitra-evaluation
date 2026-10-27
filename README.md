@@ -44,20 +44,5 @@ Table 1 lists T30n1568 and not T31n1614. The table's printed "Total 2689" is
 (菩提資糧論, 12 pairs) are released but used in neither subset. The
 `in_table1` and `in_reported_results` columns of `texts.tsv` mark each subset.
 
-## Note on the retrieval (RAG) setup
 
-The "+En" retrieval store for the RAG systems was built from Buddhist
-Chinese–English parallel data that predates this benchmark. It was **not**
-deduplicated against the benchmark. In our stored retrieval logs, the exact
-reference translation of a test sentence appeared among its 10 retrieved
-examples for 31 of the 2,593 pairs in the reported results (1.2%). 20 of these
-are in T14n0515. Allowing near-duplicates (≥ 0.9 string similarity), the count
-is about 1.5%. For T30n1568, which is not in the reported results, the exact
-reference was retrieved for 35 of its 96 pairs. RAG scores for the affected
-texts, T14n0515 above all, should be read with this in mind. Later Dharmamitra
-corpora (mitra-parallel v2 and newer) are decontaminated against this
-benchmark.
 
-## License
-
-TODO
