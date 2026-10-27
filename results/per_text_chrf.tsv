@@ -1,0 +1,321 @@
+Document	LLM	CHRF Score
+T01n0001	ChatGPT 4 Turbo	18.167
+T01n0001	Claude 3.5 Haiku	16.923
+T01n0001	Claude 3.5 Sonnet	20.438
+T01n0001	Claude 3.5 Sonnet RAG	37.699
+T01n0001	Deepseek qwen-14B	15.022
+T01n0001	Gemini 1.5 Pro	29.723
+T01n0001	Gemini 1.5 Pro RAG	18.378
+T01n0001	Gemini 2 Flash	40.275
+T01n0001	Gemma 2 9B	28.26
+T01n0001	Gemma 2 Mitra	20.943
+T02n0099	ChatGPT 4 Turbo	28.373
+T02n0099	Claude 3.5 Haiku	29.738
+T02n0099	Claude 3.5 Sonnet	33.011
+T02n0099	Claude 3.5 Sonnet RAG	36.342
+T02n0099	Deepseek qwen-14B	29.51
+T02n0099	Gemini 1.5 Pro	33.055
+T02n0099	Gemini 1.5 Pro RAG	32.386
+T02n0099	Gemini 2 Flash	33.654
+T02n0099	Gemma 2 9B	26.693
+T02n0099	Gemma 2 Mitra	32.91
+T02n0142	ChatGPT 4 Turbo	28.44
+T02n0142	Claude 3.5 Haiku	28.617
+T02n0142	Claude 3.5 Sonnet	29.495
+T02n0142	Claude 3.5 Sonnet RAG	31.914
+T02n0142	Deepseek qwen-14B	27.666
+T02n0142	Gemini 1.5 Pro	29.47
+T02n0142	Gemini 1.5 Pro RAG	31.307
+T02n0142	Gemini 2 Flash	32.361
+T02n0142	Gemma 2 9B	26.577
+T02n0142	Gemma 2 Mitra	29.604
+T04n0198	ChatGPT 4 Turbo	25.933
+T04n0198	Claude 3.5 Haiku	25.514
+T04n0198	Claude 3.5 Sonnet	25.92
+T04n0198	Claude 3.5 Sonnet RAG	28.422
+T04n0198	Deepseek qwen-14B	24.035
+T04n0198	Gemini 1.5 Pro	24.688
+T04n0198	Gemini 1.5 Pro RAG	27.326
+T04n0198	Gemini 2 Flash	29.096
+T04n0198	Gemma 2 9B	27.672
+T04n0198	Gemma 2 Mitra	26.511
+T08n0246	ChatGPT 4 Turbo	30.319
+T08n0246	Claude 3.5 Haiku	29.54
+T08n0246	Claude 3.5 Sonnet	31.891
+T08n0246	Claude 3.5 Sonnet RAG	38.078
+T08n0246	Deepseek qwen-14B	27.279
+T08n0246	Gemini 1.5 Pro	33.734
+T08n0246	Gemini 1.5 Pro RAG	31.004
+T08n0246	Gemini 2 Flash	38.652
+T08n0246	Gemma 2 9B	23.96
+T08n0246	Gemma 2 Mitra	30.87
+T09n0273	ChatGPT 4 Turbo	22.762
+T09n0273	Claude 3.5 Haiku	23.061
+T09n0273	Claude 3.5 Sonnet	22.928
+T09n0273	Claude 3.5 Sonnet RAG	31.325
+T09n0273	Deepseek qwen-14B	20.775
+T09n0273	Gemini 1.5 Pro	26.405
+T09n0273	Gemini 1.5 Pro RAG	21.769
+T09n0273	Gemini 2 Flash	29.082
+T09n0273	Gemma 2 9B	21.187
+T09n0273	Gemma 2 Mitra	24.935
+T11n0316	ChatGPT 4 Turbo	34.636
+T11n0316	Claude 3.5 Haiku	33.634
+T11n0316	Claude 3.5 Sonnet	35.119
+T11n0316	Claude 3.5 Sonnet RAG	40.904
+T11n0316	Deepseek qwen-14B	30.593
+T11n0316	Gemini 1.5 Pro	36.721
+T11n0316	Gemini 1.5 Pro RAG	38.175
+T11n0316	Gemini 2 Flash	41.217
+T11n0316	Gemma 2 9B	31.126
+T11n0316	Gemma 2 Mitra	38.773
+T12n0374	ChatGPT 4 Turbo	33.123
+T12n0374	Claude 3.5 Haiku	33.142
+T12n0374	Claude 3.5 Sonnet	33.852
+T12n0374	Claude 3.5 Sonnet RAG	36.321
+T12n0374	Deepseek qwen-14B	31.925
+T12n0374	Gemini 1.5 Pro	33.478
+T12n0374	Gemini 1.5 Pro RAG	35.921
+T12n0374	Gemini 2 Flash	35.47
+T12n0374	Gemma 2 9B	29.934
+T12n0374	Gemma 2 Mitra	34.111
+T13n0417	ChatGPT 4 Turbo	35.056
+T13n0417	Claude 3.5 Haiku	35.303
+T13n0417	Claude 3.5 Sonnet	37.781
+T13n0417	Claude 3.5 Sonnet RAG	39.399
+T13n0417	Deepseek qwen-14B	33.763
+T13n0417	Gemini 1.5 Pro	36.043
+T13n0417	Gemini 1.5 Pro RAG	38.828
+T13n0417	Gemini 2 Flash	37.714
+T13n0417	Gemma 2 9B	31.644
+T13n0417	Gemma 2 Mitra	39.618
+T14n0450	ChatGPT 4 Turbo	38.801
+T14n0450	Claude 3.5 Haiku	37.358
+T14n0450	Claude 3.5 Sonnet	39.882
+T14n0450	Claude 3.5 Sonnet RAG	43.585
+T14n0450	Deepseek qwen-14B	33.462
+T14n0450	Gemini 1.5 Pro	37.393
+T14n0450	Gemini 1.5 Pro RAG	39.564
+T14n0450	Gemini 2 Flash	42.324
+T14n0450	Gemma 2 9B	33.065
+T14n0450	Gemma 2 Mitra	37.381
+T14n0515	ChatGPT 4 Turbo	28.921
+T14n0515	Claude 3.5 Haiku	27.888
+T14n0515	Claude 3.5 Sonnet	29.881
+T14n0515	Claude 3.5 Sonnet RAG	32.768
+T14n0515	Deepseek qwen-14B	25.422
+T14n0515	Gemini 1.5 Pro	29.741
+T14n0515	Gemini 1.5 Pro RAG	31.08
+T14n0515	Gemini 2 Flash	31.338
+T14n0515	Gemma 2 9B	27.606
+T14n0515	Gemma 2 Mitra	29.876
+T17n0842	ChatGPT 4 Turbo	40.451
+T17n0842	Claude 3.5 Haiku	40.492
+T17n0842	Claude 3.5 Sonnet	40.008
+T17n0842	Claude 3.5 Sonnet RAG	42.693
+T17n0842	Deepseek qwen-14B	33.647
+T17n0842	Gemini 1.5 Pro	38.493
+T17n0842	Gemini 1.5 Pro RAG	39.049
+T17n0842	Gemini 2 Flash	42.928
+T17n0842	Gemma 2 9B	33.806
+T17n0842	Gemma 2 Mitra	41.189
+T19n0959	ChatGPT 4 Turbo	32.684
+T19n0959	Claude 3.5 Haiku	33.605
+T19n0959	Claude 3.5 Sonnet	34.234
+T19n0959	Claude 3.5 Sonnet RAG	38.131
+T19n0959	Deepseek qwen-14B	25.294
+T19n0959	Gemini 1.5 Pro	32.801
+T19n0959	Gemini 1.5 Pro RAG	35.987
+T19n0959	Gemini 2 Flash	36.873
+T19n0959	Gemma 2 9B	31.104
+T19n0959	Gemma 2 Mitra	34.791
+T19n1022B	ChatGPT 4 Turbo	37.701
+T19n1022B	Claude 3.5 Haiku	37.268
+T19n1022B	Claude 3.5 Sonnet	38.183
+T19n1022B	Claude 3.5 Sonnet RAG	41.48
+T19n1022B	Deepseek qwen-14B	32.776
+T19n1022B	Gemini 1.5 Pro	37.619
+T19n1022B	Gemini 1.5 Pro RAG	40.555
+T19n1022B	Gemini 2 Flash	40.004
+T19n1022B	Gemma 2 9B	33.1
+T19n1022B	Gemma 2 Mitra	40.147
+T20n1060	ChatGPT 4 Turbo	29.755
+T20n1060	Claude 3.5 Haiku	30.406
+T20n1060	Claude 3.5 Sonnet	31.338
+T20n1060	Claude 3.5 Sonnet RAG	32.966
+T20n1060	Deepseek qwen-14B	27.425
+T20n1060	Gemini 1.5 Pro	29.525
+T20n1060	Gemini 1.5 Pro RAG	31.526
+T20n1060	Gemini 2 Flash	32.962
+T20n1060	Gemma 2 9B	28.38
+T20n1060	Gemma 2 Mitra	32.162
+T20n1077	ChatGPT 4 Turbo	36.534
+T20n1077	Claude 3.5 Haiku	35.751
+T20n1077	Claude 3.5 Sonnet	37.779
+T20n1077	Claude 3.5 Sonnet RAG	39.775
+T20n1077	Deepseek qwen-14B	31.543
+T20n1077	Gemini 1.5 Pro	36.633
+T20n1077	Gemini 1.5 Pro RAG	39.082
+T20n1077	Gemini 2 Flash	39.037
+T20n1077	Gemma 2 9B	32.336
+T20n1077	Gemma 2 Mitra	37.349
+T20n1136	ChatGPT 4 Turbo	34.418
+T20n1136	Claude 3.5 Haiku	34.351
+T20n1136	Claude 3.5 Sonnet	32.792
+T20n1136	Claude 3.5 Sonnet RAG	37.554
+T20n1136	Deepseek qwen-14B	29.34
+T20n1136	Gemini 1.5 Pro	33.667
+T20n1136	Gemini 1.5 Pro RAG	35.304
+T20n1136	Gemini 2 Flash	36.232
+T20n1136	Gemma 2 9B	30.483
+T20n1136	Gemma 2 Mitra	35.637
+T20n1166	ChatGPT 4 Turbo	30.97
+T20n1166	Claude 3.5 Haiku	32.74
+T20n1166	Claude 3.5 Sonnet	33.769
+T20n1166	Claude 3.5 Sonnet RAG	35.507
+T20n1166	Deepseek qwen-14B	30.225
+T20n1166	Gemini 1.5 Pro	30.946
+T20n1166	Gemini 1.5 Pro RAG	33.634
+T20n1166	Gemini 2 Flash	35.516
+T20n1166	Gemma 2 9B	28.327
+T20n1166	Gemma 2 Mitra	34.246
+T21n1261	ChatGPT 4 Turbo	35.282
+T21n1261	Claude 3.5 Haiku	36.183
+T21n1261	Claude 3.5 Sonnet	38.136
+T21n1261	Claude 3.5 Sonnet RAG	41.315
+T21n1261	Deepseek qwen-14B	34.117
+T21n1261	Gemini 1.5 Pro	35.328
+T21n1261	Gemini 1.5 Pro RAG	38.753
+T21n1261	Gemini 2 Flash	39.599
+T21n1261	Gemma 2 9B	34.276
+T21n1261	Gemma 2 Mitra	40.008
+T21n1277	ChatGPT 4 Turbo	35.801
+T21n1277	Claude 3.5 Haiku	36.552
+T21n1277	Claude 3.5 Sonnet	36.371
+T21n1277	Claude 3.5 Sonnet RAG	44.665
+T21n1277	Deepseek qwen-14B	28.531
+T21n1277	Gemini 1.5 Pro	35.685
+T21n1277	Gemini 1.5 Pro RAG	41.377
+T21n1277	Gemini 2 Flash	41.027
+T21n1277	Gemma 2 9B	33.546
+T21n1277	Gemma 2 Mitra	38.994
+T21n1305	ChatGPT 4 Turbo	33.261
+T21n1305	Claude 3.5 Haiku	32.678
+T21n1305	Claude 3.5 Sonnet	33.859
+T21n1305	Claude 3.5 Sonnet RAG	36.38
+T21n1305	Deepseek qwen-14B	31.879
+T21n1305	Gemini 1.5 Pro	33.387
+T21n1305	Gemini 1.5 Pro RAG	33.14
+T21n1305	Gemini 2 Flash	36.765
+T21n1305	Gemma 2 9B	29.495
+T21n1305	Gemma 2 Mitra	37.492
+T21n1394	ChatGPT 4 Turbo	32.234
+T21n1394	Claude 3.5 Haiku	31.505
+T21n1394	Claude 3.5 Sonnet	32.266
+T21n1394	Claude 3.5 Sonnet RAG	35.353
+T21n1394	Deepseek qwen-14B	24.751
+T21n1394	Gemini 1.5 Pro	31.48
+T21n1394	Gemini 1.5 Pro RAG	34.365
+T21n1394	Gemini 2 Flash	34.741
+T21n1394	Gemma 2 9B	30.26
+T21n1394	Gemma 2 Mitra	33.416
+T24n1492	ChatGPT 4 Turbo	32.756
+T24n1492	Claude 3.5 Haiku	33.44
+T24n1492	Claude 3.5 Sonnet	35.784
+T24n1492	Claude 3.5 Sonnet RAG	37.291
+T24n1492	Deepseek qwen-14B	30.65
+T24n1492	Gemini 1.5 Pro	33.971
+T24n1492	Gemini 1.5 Pro RAG	35.616
+T24n1492	Gemini 2 Flash	35.655
+T24n1492	Gemma 2 9B	31.989
+T24n1492	Gemma 2 Mitra	35.43
+T31n1614	ChatGPT 4 Turbo	26.534
+T31n1614	Claude 3.5 Haiku	25.419
+T31n1614	Claude 3.5 Sonnet	24.664
+T31n1614	Claude 3.5 Sonnet RAG	39.355
+T31n1614	Deepseek qwen-14B	23.275
+T31n1614	Gemini 1.5 Pro	27.263
+T31n1614	Gemini 1.5 Pro RAG	39.809
+T31n1614	Gemini 2 Flash	33.648
+T31n1614	Gemma 2 9B	23.497
+T31n1614	Gemma 2 Mitra	31.701
+T32n1666	ChatGPT 4 Turbo	35.447
+T32n1666	Claude 3.5 Haiku	34.157
+T32n1666	Claude 3.5 Sonnet	38.075
+T32n1666	Claude 3.5 Sonnet RAG	40.297
+T32n1666	Deepseek qwen-14B	31.335
+T32n1666	Gemini 1.5 Pro	35.841
+T32n1666	Gemini 1.5 Pro RAG	36.275
+T32n1666	Gemini 2 Flash	39.507
+T32n1666	Gemma 2 9B	29.288
+T32n1666	Gemma 2 Mitra	40.096
+T34n1725	ChatGPT 4 Turbo	31.889
+T34n1725	Claude 3.5 Haiku	33.169
+T34n1725	Claude 3.5 Sonnet	35.639
+T34n1725	Claude 3.5 Sonnet RAG	37.114
+T34n1725	Deepseek qwen-14B	28.869
+T34n1725	Gemini 1.5 Pro	31.308
+T34n1725	Gemini 1.5 Pro RAG	34.678
+T34n1725	Gemini 2 Flash	34.4
+T34n1725	Gemma 2 9B	27.732
+T34n1725	Gemma 2 Mitra	36.904
+T37n1762	ChatGPT 4 Turbo	29.744
+T37n1762	Claude 3.5 Haiku	29.956
+T37n1762	Claude 3.5 Sonnet	31.699
+T37n1762	Claude 3.5 Sonnet RAG	32.7
+T37n1762	Deepseek qwen-14B	25.069
+T37n1762	Gemini 1.5 Pro	28.606
+T37n1762	Gemini 1.5 Pro RAG	32.045
+T37n1762	Gemini 2 Flash	32.572
+T37n1762	Gemma 2 9B	25.372
+T37n1762	Gemma 2 Mitra	31.385
+T42n1826	ChatGPT 4 Turbo	26.941
+T42n1826	Claude 3.5 Haiku	28.973
+T42n1826	Claude 3.5 Sonnet	29.61
+T42n1826	Claude 3.5 Sonnet RAG	31.109
+T42n1826	Deepseek qwen-14B	25.873
+T42n1826	Gemini 1.5 Pro	28.236
+T42n1826	Gemini 1.5 Pro RAG	29.134
+T42n1826	Gemini 2 Flash	29.67
+T42n1826	Gemma 2 9B	25.388
+T42n1826	Gemma 2 Mitra	29.489
+T45n1857	ChatGPT 4 Turbo	30.892
+T45n1857	Claude 3.5 Haiku	30.819
+T45n1857	Claude 3.5 Sonnet	30.12
+T45n1857	Claude 3.5 Sonnet RAG	33.988
+T45n1857	Deepseek qwen-14B	26.274
+T45n1857	Gemini 1.5 Pro	27.868
+T45n1857	Gemini 1.5 Pro RAG	31.029
+T45n1857	Gemini 2 Flash	30.985
+T45n1857	Gemma 2 9B	25.538
+T45n1857	Gemma 2 Mitra	31.638
+T45n1909	ChatGPT 4 Turbo	29.256
+T45n1909	Claude 3.5 Haiku	29.401
+T45n1909	Claude 3.5 Sonnet	32.018
+T45n1909	Claude 3.5 Sonnet RAG	34.396
+T45n1909	Deepseek qwen-14B	24.926
+T45n1909	Gemini 1.5 Pro	29.729
+T45n1909	Gemini 1.5 Pro RAG	30.801
+T45n1909	Gemini 2 Flash	30.639
+T45n1909	Gemma 2 9B	26.129
+T45n1909	Gemma 2 Mitra	31.578
+T47n1961	ChatGPT 4 Turbo	26.578
+T47n1961	Claude 3.5 Haiku	26.636
+T47n1961	Claude 3.5 Sonnet	26.453
+T47n1961	Claude 3.5 Sonnet RAG	30.967
+T47n1961	Deepseek qwen-14B	24.642
+T47n1961	Gemini 1.5 Pro	28.342
+T47n1961	Gemini 1.5 Pro RAG	27.641
+T47n1961	Gemini 2 Flash	29.136
+T47n1961	Gemma 2 9B	23.831
+T47n1961	Gemma 2 Mitra	26.707
+T48n2004	ChatGPT 4 Turbo	31.354
+T48n2004	Claude 3.5 Haiku	31.094
+T48n2004	Claude 3.5 Sonnet	32.875
+T48n2004	Claude 3.5 Sonnet RAG	34.762
+T48n2004	Deepseek qwen-14B	27.485
+T48n2004	Gemini 1.5 Pro	31.245
+T48n2004	Gemini 1.5 Pro RAG	33.107
+T48n2004	Gemini 2 Flash	35.362
+T48n2004	Gemma 2 9B	23.922
+T48n2004	Gemma 2 Mitra	30.273
